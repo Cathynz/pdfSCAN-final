@@ -1780,7 +1780,7 @@ class PDFBatchScanner:
         return project_val, title_val
 
     # =========================================================================
-    # TEXT CLEANUP  (unchanged)
+    # TEXT CLEANUP 
     # =========================================================================
 
     def clean_extracted_text(self, text):
@@ -1805,7 +1805,7 @@ class PDFBatchScanner:
         return text.strip()
 
     # =========================================================================
-    # EXPORT  (unchanged)
+    # EXPORT  
     # =========================================================================
 
     def export_to_excel(self):
