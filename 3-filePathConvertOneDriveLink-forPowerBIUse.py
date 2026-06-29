@@ -19,7 +19,10 @@ class SharePointURLConverter:
         # ============================================
         # CONFIGURATION
         # ============================================
-        self.SHAREPOINT_BASE = "https://mcdgroupau.sharepoint.com/sites/DE-HeadOffice/Shared%20Documents/Head%20Office/00%20Project"
+        self.SHAREPOINT_BASE ="https://mcdgroupau.sharepoint.com/sites/NZP-ENG/Shared%20Documents/Engineering%20for%20Projects"  
+         #"https://mcdgroupau.sharepoint.com/sites/DE-HeadOffice/Shared%20Documents/Head%20Office/00%20Project" 
+                               
+                
         
         # --- UI SETUP ---
         # Configuration Frame
